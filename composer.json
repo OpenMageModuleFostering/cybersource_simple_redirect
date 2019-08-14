@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Cybersource_Simple_Redirect",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL-3.0)",
+    "homepage": "",
+    "description": "Cybersource Simple Redirect Payment Method",
+    "authors": [
+    {
+        "name": "Softaddicts.com",
+        "email": "vlad@softaddicts.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
