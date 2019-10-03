@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Cybersource_Simple_Redirect",
+    "name": "openmage-module-fostering\/cybersource_simple_redirect",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Cybersource Simple Redirect Payment Method",
     "authors": [
